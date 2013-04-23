@@ -1,0 +1,8 @@
+{
+    "name": "emilkje/sandbox-repo",
+    "version": "0.0.2",
+    "dist": {
+        "url": "http://github.com/emilkje/sandbox-repo.git",
+        "type": "git"
+    }
+}
