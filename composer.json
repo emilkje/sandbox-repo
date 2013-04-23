@@ -4,5 +4,10 @@
     "dist": {
         "url": "http://github.com/emilkje/sandbox-repo.git",
         "type": "git"
+    },
+	"autoload": {
+    	"psr-0": {
+    		"Test": ""
+    	}
     }
 }
